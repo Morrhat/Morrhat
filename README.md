@@ -98,27 +98,61 @@
 
 ---
 
-<!-- ### 👾 Тестовые артефакты:
+### 👾 Тестовые артефакты:
 
 <table>
       <tr>
         <th>№</th>
         <th>Область</th>
         <th>Репозиторий</th>
-        <th></th>
       </tr>
       <tr>
         <td>1</td>
-        <td>YandexEdTech/Образовательные технологии Яндекса<br>по программе «Инженер по тестированию»<br>Специалист по тестированию в области информационных технологий</td>
-        <td>18.04.2023 — 02.02.2025</td>
-        <td>
-        <a href= "https://drive.google.com/file/d/16Fvvyo8G-lcELKJ_UVkZgUZCJhgS7mvg/view?usp=drive_link"><img title="YandexEdTech_ru" src="https://img.icons8.com/?size=100&id=NKgZQ1HcnM3s&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
-        <a href= "https://drive.google.com/file/d/1EFN2h4eBONSy1N9V4qpnKQUvkNoBUscl/view?usp=drive_link"><img title="YandexEdTech_en" src="https://img.icons8.com/?size=100&id=NKgZQ1HcnM3s&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
-        </td>
+        <td>Тест-анализ</td>
+        <td><a href= "https://github.com/Morrhat/theory"><img title="TestAnalysis" src="https://img.icons8.com/?size=100&id=dslcyJwWWDHs&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Техники тест-дизайна</td>
+        <td><a href= "https://github.com/Morrhat/design"><img title="TestDesign" src="https://img.icons8.com/?size=100&id=WwHcZxa9PFUq&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Тестовая документация</td>
+        <td><a href= "https://github.com/Morrhat/docs"><img title="Documenta" src="https://img.icons8.com/?size=100&id=Y4lyJQODpHWN&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Тестирование API</td>
+        <td><a href= "https://github.com/Morrhat/api"><img title="API" src="https://img.icons8.com/?size=100&id=Ov4kJCn8JtAH&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Работа с базами данных</td>
+        <td><a href= "https://github.com/Morrhat/database"><img title="Database" src="https://img.icons8.com/?size=100&id=Wy3XKG1CjyKf&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Тестирование веб-приложений</td>
+        <td><a href= "https://github.com/Morrhat/web"><img title="Web" src="https://img.icons8.com/?size=100&id=y9OsIxmZTFWI&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>Тестирование мобильных приложений</td>
+        <td><a href= "https://github.com/Morrhat/mobile"><img title="Mobile" src="https://img.icons8.com/?size=100&id=ujT9PjjbPRn3&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>Работа с bash</td>
+        <td><a href= "https://github.com/Morrhat/git_bash"><img title="Bash" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>Автотестирование API</td>
+        <td><a href= "https://github.com/Morrhat/Autotests_and_SQL"><img title="Autotest" src="https://img.icons8.com/?size=100&id=80984&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
       </tr>
 </table>
 
--->
 
 <!--
 **Morrhat/Morrhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
