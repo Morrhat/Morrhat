@@ -148,8 +148,13 @@
       </tr>
       <tr>
         <td>9</td>
-        <td>Автотестирование API</td>
-        <td><a href= "https://github.com/Morrhat/Autotests_and_SQL"><img title="Autotest" src="https://img.icons8.com/?size=100&id=80984&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+        <td>Автоматизация тестирования API (project Samokat)</td>
+        <td><a href= "https://github.com/Morrhat/Autotests_and_SQL"><img title="Autotest_Samokat" src="https://img.icons8.com/?size=100&id=6Tpb4xpmgZk7&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>Автоматизация тестирования API (project Prilavok)</td>
+        <td><a href= "https://github.com/Morrhat/praktikum_project_api_autotests"><img title="Autotest_prilavok" src="https://img.icons8.com/?size=100&id=6Tpb4xpmgZk7&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
       </tr>
 </table>
 
