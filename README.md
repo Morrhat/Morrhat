@@ -13,7 +13,7 @@
 > <p>🐱‍🐉 Fun fact: Меня вырастили коты и компьютерные игры
 > <br>Проработала 6 лет на производстве, так что могу сказать: «На <strong>заводе</strong> уже была» <br>Теперь средний возраст привёл меня в тестирование.
 > </p>
-
+##### Am I testing The Code, or is The Code testing me?
 ---
 ###   📫 Как связаться со мной: 
 <div>
@@ -76,7 +76,7 @@
 
 ---
 
-### 💻 Пройденные курсы:
+### 💻 Пройденные курсы и проекты:
 
 <table>
       <tr>
@@ -88,12 +88,28 @@
       <tr>
         <td>1</td>
         <td>YandexEdTech/Образовательные технологии Яндекса<br>по программе «Инженер по тестированию»<br>Специалист по тестированию в области информационных технологий</td>
-        <td>18.04.2023 — 02.02.2025</td>
+        <td>18.04.2024 — 02.02.2025</td>
         <td>
         <a href= "https://drive.google.com/file/d/16Fvvyo8G-lcELKJ_UVkZgUZCJhgS7mvg/view?usp=drive_link"><img title="YandexEdTech_ru" src="https://img.icons8.com/?size=100&id=NKgZQ1HcnM3s&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
         <a href= "https://drive.google.com/file/d/1EFN2h4eBONSy1N9V4qpnKQUvkNoBUscl/view?usp=drive_link"><img title="YandexEdTech_en" src="https://img.icons8.com/?size=100&id=NKgZQ1HcnM3s&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
         </td>
       </tr>
+       <tr>
+        <td>2</td>
+        <td>Курс «Функциональное тестирование ПО» JUNIOR+ Артёма Русова</td>
+        <td>18.11.2024 — 24.02.2025</td>
+        <td>
+-
+        </td>
+      </tr>   
+       <tr>
+        <td>3</td>
+        <td>Стажировка - VitaGPT AI Assistans - тестирование ИИ-ассистентоов</td>
+        <td>Текущий проект</td>
+        <td>
+            -
+        </td>
+      </tr>   
 </table>
 
 ---
@@ -158,7 +174,7 @@
       </tr>
 </table>
 
-##### Am I testing The Code, or is The Code testing me?
+
 <!--
 **Morrhat/Morrhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
