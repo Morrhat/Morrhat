@@ -125,7 +125,7 @@
       </tr>
       <tr>
         <td>1</td>
-        <td>Тест-анализ</td>
+        <td>Тест-анализ и теория тестирования</td>
         <td><a href= "https://github.com/Morrhat/theory"><img title="TestAnalysis" src="https://img.icons8.com/?size=100&id=dslcyJwWWDHs&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
       </tr>
       <tr>
