@@ -59,6 +59,7 @@
 
 <div>
   <img src="https://logodix.com/logo/840719.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" title="dbeaver" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?20160706123547" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
