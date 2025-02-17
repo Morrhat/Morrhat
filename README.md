@@ -103,7 +103,7 @@
       </tr>   
        <tr>
         <td>3</td>
-        <td>Стажировка - VitaGPT AI Assistans - тестирование ИИ-ассистентоов</td>
+        <td>VitaGPT AI Assistans - тестирование ИИ-ассистентоов</td>
         <td>Текущий проект</td>
         <td>
             -
