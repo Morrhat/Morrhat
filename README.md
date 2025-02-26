@@ -24,47 +24,26 @@
 
 ---
 
-### 📁 Тестовая документация:
+### 🛠 Инструментарий:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHe8aNTUPt3TA/company-logo_200_200/company-logo_200_200/0/1689265711152/qaseio_logo?e=2147483647&v=beta&t=qN31ASXOYJ1l3YCOytQ9llYZHBjEOcGxpVRKyLA9bUs" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.sanity.io/images/599r6htc/regionalized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&q=75&fit=max&auto=format&dpr=2" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
-
----
-
-### 🛠 Тестирование веб-приложений:
-
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
 </div>
-
----
-
-### 📱 Тестирование мобильных приложений:
-
 <div>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
 </div>
-
-
----
-
-### 💾 Работа с данными:
-
 <div>
   <img src="https://logodix.com/logo/840719.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" title="dbeaver" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?20160706123547" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
-
----
-
-### ✏️ Работа с кодом:
-
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
