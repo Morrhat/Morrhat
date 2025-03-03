@@ -80,7 +80,7 @@
         <td>Курс «Функциональное тестирование ПО» JUNIOR+ Артёма Русова</td>
         <td>18.11.2024 — 24.02.2025</td>
         <td>
--
+        <a href= "https://drive.google.com/file/d/1mjNmkX6GxJdz2WcuPsiWnGqQ0iqv3IsX/view?usp=drive_link"><img title="QAscratch_en" src="https://img.icons8.com/?size=100&id=NKgZQ1HcnM3s&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
         </td>
       </tr>   
        <tr>
@@ -90,7 +90,15 @@
         <td>
             -
         </td>
-      </tr>   
+      </tr>  
+    <tr>
+           <td>4</td>
+        <td>QA Internship Abra - тестирование интернет-магазина</td>
+        <td>Текущий проект</td>
+        <td>
+            -
+        </td>
+       </tr>   
 </table>
 
 ---
