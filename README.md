@@ -44,7 +44,7 @@
 </div>
 <div>
   <img src="https://logodix.com/logo/840719.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" title="dbeaver" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?20160706123547" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 <div>
@@ -97,6 +97,7 @@
         <td>03/2025 — Текущий проект</td>
         <td>
             -
+               <a href= "https://drive.google.com/file/d/1xPiASZhrtLnB1NNmAnYACkRJob0SoJux/view?usp=drive_link"><img title="AiAssistance_ru" src="https://img.icons8.com/?size=100&id=wIbWQHJLwHxp&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
         </td>
        </tr>   
   <tr>
@@ -180,6 +181,7 @@
 <!--
 **Morrhat/Morrhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+  <img src="https://img.icons8.com/?size=100&id=wIbWQHJLwHxp&format=png&color=000000" title="redis" alt="redis" width="40" height="40"/>&nbsp
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
