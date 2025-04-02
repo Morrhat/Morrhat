@@ -97,7 +97,6 @@
         <td>03/2025 — Текущий проект</td>
         <td>
             -
-               <a href= "https://drive.google.com/file/d/1xPiASZhrtLnB1NNmAnYACkRJob0SoJux/view?usp=drive_link"><img title="AiAssistance_ru" src="https://img.icons8.com/?size=100&id=wIbWQHJLwHxp&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
         </td>
        </tr>   
   <tr>
