@@ -85,15 +85,15 @@
       </tr>   
        <tr>
         <td>3</td>
-        <td>VitaGPT AI Assistance - Тестирование функционала ИИ-ассистентов</td>
-        <td>01/2025 — 03/2025</td>
+        <td>VitaGPT AI Assistance - Тестирование LLM, создание и настройка AI-ассистентов</td>
+        <td>02/2025 — 03/2025</td>
         <td>
          <a href= "https://drive.google.com/file/d/1xPiASZhrtLnB1NNmAnYACkRJob0SoJux/view?usp=drive_link"><img title="AiAssistance_ru" src="https://img.icons8.com/?size=100&id=NKgZQ1HcnM3s&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
         </td>
       </tr>  
     <tr>
            <td>4</td>
-        <td> UR.dev - тестирование платформы для оптовой торговли</td>
+        <td> UR.dev - Тестирование платформы для оптовой торговли</td>
         <td>03/2025 — Текущий проект</td>
         <td>
             -
@@ -101,12 +101,20 @@
        </tr>   
   <tr>
            <td>5</td>
-        <td>VitaGPT AI Assistance - Тестирование функционала ИИ-ассистентов</td>
+        <td>VitaGPT AI Assistance - Проектирование, настройка и тестирование AI-ассистентов</td>
         <td>03/2025 — Текущий проект</td>
         <td>
             -
         </td>
-       </tr>   
+       </tr>
+      <tr>
+           <td>6</td>
+        <td>Курьерская служба «Пешкарики» - Тестирование мобильного приложения для заказчиков и курьеров</td>
+        <td>04/2025 — Текущий проект</td>
+        <td>
+            -
+        </td>
+       </tr> 
 </table>
 
 ---
