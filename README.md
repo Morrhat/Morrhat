@@ -24,7 +24,7 @@
 
 ---
 ### 🧧 Резюме
-- С моим резюме можно ознакомиться ✨ [здесь](https://drive.google.com/file/d/18QwRD2LUBsq_3bwUXeNipfnu1FbjjA6d/view?usp=drivesdk) ✨
+- С моим резюме можно ознакомиться ✨ [здесь](https://drive.google.com/file/d/1Xp8hd7fVrmLNpqUoDe3uEcE9FzZfLKPT/view?usp=drive_link) ✨
 ---
 
 ### 🛠 Инструментарий:
