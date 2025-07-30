@@ -214,6 +214,11 @@ Firefox, Yandex);<br>
         <td>Автоматизация тестирования API (project Prilavok)</td>
         <td><a href= "https://github.com/Morrhat/praktikum_project_api_autotests"><img title="Autotest_prilavok" src="https://img.icons8.com/?size=100&id=6Tpb4xpmgZk7&format=png&color=000000" width="40" height="40" alt="Autotest_prilavok"/></a></td>
       </tr>
+        <tr>
+        <td>11</td>
+        <td>Автоматизация коллекции Postman с помощью JavaScript</td>
+        <td><a href= "https://github.com/Morrhat/API_autotests"><img title="Autotest_prilavok" src="https://img.icons8.com/matisse/100/js.png" width="40" height="40" alt="Autotest_JavaScript"/></a></td>
+      </tr>
 </table>
 
 
