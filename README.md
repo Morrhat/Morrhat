@@ -41,8 +41,8 @@
 
 ---
 ### 🧧 Резюме
-- С моим ревью можно ознакомиться ✨ [здесь](https://drive.google.com/file/d/1ldZeepFF3fWR4p-emCnVGmQqvBYITH-w/view?usp=drive_link) ✨
-- Вакансия на HH.ru ✨ [здесь](https://gatchina.hh.ru/resume/3d5c321dff0e75c0fb0039ed1f6d5853553258) ✨
+- С моим резюме можно ознакомиться ✨ [здесь](https://drive.google.com/file/d/1UR6BS_ihDBxZhf881MlrZy1ROk79j9hK/view?usp=drive_link) ✨
+- Резюме на HH.ru ✨ [здесь](https://spb.hh.ru/resume/c6fff257ff0f316d3f0039ed1f4e57314e4c69) ✨
 ---
 
 ### 🛠 Инструментарий:
