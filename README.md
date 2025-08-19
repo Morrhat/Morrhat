@@ -5,7 +5,7 @@
 ### 🐱‍💻 Обо мне:
 
 - QA-инженер с практическим опытом тестирования веб, мобильных приложений и backend (API, микросервисы, БД).
-- Опыт, полученный на 4 стажировках, включает:
+- Опыт, полученный на стажировках и стартап-проектах, включает:
   - Комплексное тестирование REST API (Postman, Swagger), включая регистрацию, авторизацию, негативные сценарии и анализ сетевых запросов (Charles Proxy);
   - Интеграционное тестирование микросервисов и работу с БД (PostgreSQL, ClickHouse, Redis);
   - Мобильное тестирование (Android) с упором на UI/UX и исследовательское тестирование;
@@ -61,6 +61,7 @@
 <div>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" title="docker" alt="docker" width="40" height="40"/>&nbsp
 </div>
 <div>
   <img src="https://logodix.com/logo/840719.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -74,6 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp
   <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
 </div>
