@@ -264,9 +264,9 @@ Firefox, Yandex);<br>
      <tr>
         <td>4</td>
         <td>«REST API test automation (Starter)» Мастер-класс по API framework от Валерия Меньшикова</td>
-        <td>05/2025 — 06/2025</td>
+        <td>08/2025</td>
         <td>
-        <a href= "https://drive.google.com/file/d/1oe41oqoVvY16SJ9ZWpo4TNZEvrNZvnca/view?usp=drive_link"><img title="QAscratch_en" src="https://img.icons8.com/?size=100&id=NKgZQ1HcnM3s&format=png&color=000000" width="40" height="40" alt="backend"/></a>
+        <a href= "https://drive.google.com/file/d/1oe41oqoVvY16SJ9ZWpo4TNZEvrNZvnca/view?usp=drive_link"><img title="api_autotest_en" src="https://img.icons8.com/?size=100&id=NKgZQ1HcnM3s&format=png&color=000000" width="40" height="40" alt="backend"/></a>
         </td>
       </tr>  
 </table>
